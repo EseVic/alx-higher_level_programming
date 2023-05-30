@@ -2,13 +2,14 @@
 
 """Define a class Square."""
 
+
 class Square:
     """Represents a square."""
 
     def __init__(self, size=0):
-        """Initializes the data.
+        """Initializes the square.
         Args:
-            size (int): The size of the new data.
+            size (int): The size of the new square.
         """
         if not isinstance(size, int):
             raise TypeError("size must be an integer")
