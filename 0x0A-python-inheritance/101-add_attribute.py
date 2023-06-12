@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """Implements a function that adds attributes to objects."""
 
 
